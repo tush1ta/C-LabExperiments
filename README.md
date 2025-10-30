@@ -13,8 +13,8 @@ Each experiment folder includes both the C source code and its output screenshot
 
 | Program | Screenshot |
 |----------|-------------|
-| [address.c](./address.c) | ![Output Screenshot](./address.png) |
-| [hello.c](./hello.c) | ![Output Screenshot](./helloc.png) |
+| [address.c]("C:\Users\LENOVO\OneDrive\Documents\C programs\New folder\Exp1\address.c") | ![Output Screenshot]("C:\Users\LENOVO\OneDrive\Documents\C programs\New folder\Exp1\address.png") |
+| [hello.c]("C:\Users\LENOVO\OneDrive\Documents\C programs\New folder\Exp1\hello.c") | ![Output Screenshot]("C:\Users\LENOVO\OneDrive\Documents\C programs\New folder\Exp1\helloc.lnk") |
 | [name-age.c](./name-age.c) | ![Output Screenshot](./name-age.png) |
 | [sum.c](./sum.c) | ![Output Screenshot](./sum.png) |
 
